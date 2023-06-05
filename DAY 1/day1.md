@@ -15,6 +15,6 @@ That is why learning Java is important!
 Head over to [repl.it](https://repl.it/) and make an account. Replit is an awesome resource where you can write and run code. Click the "Create Repl" button on the top left and create a new project.
 Select Java and name it what you desire!
 
-
+------------------------------------------------------------------
 
 As you can see, 
